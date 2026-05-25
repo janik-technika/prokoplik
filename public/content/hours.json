@@ -1,0 +1,50 @@
+{
+  "days": [
+    {
+      "key": "mon",
+      "label": "Pondělí",
+      "closed": false,
+      "from": "07:00",
+      "to": "17:00"
+    },
+    {
+      "key": "tue",
+      "label": "Úterý",
+      "closed": false,
+      "from": "07:00",
+      "to": "17:00"
+    },
+    {
+      "key": "wed",
+      "label": "Středa",
+      "closed": false,
+      "from": "07:00",
+      "to": "17:00"
+    },
+    {
+      "key": "thu",
+      "label": "Čtvrtek",
+      "closed": false,
+      "from": "07:00",
+      "to": "17:00"
+    },
+    {
+      "key": "fri",
+      "label": "Pátek",
+      "closed": false,
+      "from": "07:00",
+      "to": "13:00"
+    },
+    {
+      "key": "sat",
+      "label": "Sobota",
+      "closed": true
+    },
+    {
+      "key": "sun",
+      "label": "Neděle",
+      "closed": true
+    }
+  ],
+  "note": ""
+}
