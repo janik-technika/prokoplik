@@ -1,0 +1,37 @@
+[
+  {
+    "id": "p1",
+    "service": "Mechanická práce",
+    "price": "879 Kč vč. DPH",
+    "note": "727 Kč bez DPH",
+    "order": 1
+  },
+  {
+    "id": "p2",
+    "service": "Elektrikářská práce",
+    "price": "968 Kč vč. DPH",
+    "note": "800 Kč bez DPH",
+    "order": 2
+  },
+  {
+    "id": "p3",
+    "service": "Diagnostika",
+    "price": "od 726 Kč vč. DPH",
+    "note": "od 600 Kč bez DPH",
+    "order": 3
+  },
+  {
+    "id": "p4",
+    "service": "Půjčení vozidla / den",
+    "price": "od 907 Kč vč. DPH",
+    "note": "od 750 Kč bez DPH",
+    "order": 4
+  },
+  {
+    "id": "b8j4yu4g",
+    "service": "test",
+    "price": "test",
+    "note": "test",
+    "order": 5
+  }
+]
